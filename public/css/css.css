@@ -1,8 +1,17 @@
 body {
-    color: blue;
-    background-color: bisque;
+   background-image: url(/images/bg.jpg);
+
   }
 
 .navbar-nav a{
   padding-left: 30px !important;
+}
+
+.card-body{
+  background-color: bisque;
+}
+
+.card-img-top{
+  max-height: 520px;
+  min-height: 520px;
 }
