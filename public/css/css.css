@@ -15,3 +15,9 @@ body {
   max-height: 520px;
   min-height: 520px;
 }
+
+.fixHeightImg{
+  min-height: 500px !important;
+  max-height: 500px !important;
+  cursor:pointer
+}
